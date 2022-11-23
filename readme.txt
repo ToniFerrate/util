@@ -1,7 +1,6 @@
 #Java Utils
 
-Per executar cada aplicació desde la línia de comandes colocar-se desde el prompt a l'arrel del directori de *.class que conté cada 
-els packages (usualment directori bin creat per Eclipse) i executar:
+Per executar cada aplicació (cada exercici) desde la línia de comandes colocar-se desde el prompt a l'arrel del directori de *.class que conté els packages (usualment directori bin creat per Eclipse) i executar:
 java <nom del package>.<nom de la classe main> <paràmetres que corresponguin en cada cas>
 
 Exemples:
